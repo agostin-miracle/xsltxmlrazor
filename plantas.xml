@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="plantas.xslt"?>
+<!--
+
+ Para rodar o xml direto no browse, tente um dos passos abaixo
+ 1) Tente executar o Chrome com a  allow-file-access-from-files, precedida de dois traços
+
+ 2) Faça upload para um host e tudo ficará bem.
+
+-->
+<plantas>
+  <planta  title="Pinhão Roxo">
+    <habito>Arbusto</habito>
+    <cientifico>Jatropha gossypiifolia L.</cientifico>
+    <familia>Euphorbiaceae</familia>
+    <descricao>
+      Jatropha gossypiifolia é um arbusto muito ramificado, um tanto suculento, de folha caduca a perene, que cresce até 3 metros de altura. Embora venenosa, a planta é frequentemente usada na medicina tradicional, sendo colhida na natureza para uso local. Uma planta atraente, é frequentemente cultivada como ornamental, onde é valorizada em particular por sua folhagem, frequentemente tingida de roxo ou avermelhado, e por suas flores vermelho-escuras.
+    </descricao>
+    <nomes>
+      <pais lang="Espanhol (CUBA)">
+        <item ref="">Tuatúa</item>
+      </pais>
+      <pais lang="Português (BRASIL)">
+        <item ref="">Pião Roxo</item>
+        <item ref="">Pinhão de Purga</item>
+        <item ref="">Erva Purgante</item>
+        <item ref="">Mamoninha</item>
+        <item ref="">Jalapão</item>
+        <item ref="">Batata de Teiú</item>
+        <item ref="">Pinhão Coral</item>
+        <item ref="">Pinhão do Pará</item>
+        <item key="1" literal="" ref="" use="">Pinhão Roxo</item>
+      </pais>
+      <pais lang="Inglês">
+        <item ref="">Wild Cassava</item>
+        <item ref="">Wild Cassada</item>
+        <item ref="">Red Fig Nut</item>
+        <item ref="">Red Physic Nut</item>
+        <item ref="">Cotton Leaved Phisic Nut</item>
+        <item key="1" ref="">Bellyache Bush</item>
+      </pais>
+      <pais lang="Francês">
+        <item ref="">Médiciner</item>
+      </pais>
+
+    </nomes>
+  </planta>
+
+
+  <planta title="Mamona Vermelha">
+    <habito>Arbusto/Árvore Pequena</habito>
+    <cientifico>Ricinus sanguineus Hoot</cientifico>
+    <familia>Euphorbiaceae</familia>
+    <descricao>É uma planta perene muito ramificada e de vida curta, com caules robustos e ocos que se tornam mais ou menos lenhosos e persistem. Uma planta de rápido crescimento na natureza, onde pode atingir até 12 metros de altura, no cultivo é geralmente menor, raramente excedendo 4 metros. A planta tem uma longa história de cultivo como planta oleaginosa e medicinal, tendo sido cultivada no antigo Egito. Ainda é amplamente cultivada por suas sementes em zonas tropicais e subtropicais. Existem muitas variedades nomeadas, algumas desenvolvidas para uso ornamental e outras para produção de óleo.</descricao>
+    <nomes>
+      <pais lang="Espanhol (CUBA)">
+        <item ref="">Higuereta Roja</item>
+        <item ref="">Higuereta</item>
+      </pais>
+      <pais lang="Português (BRASIL)">
+        <item ref="">Mamona</item>
+        <item key="1" literal="" ref="" use="">Mamona Vermelha</item>
+      </pais>
+      <pais lang="Inglês">
+        <item ref="">Red Leaved Ornamental Ricinus</item>
+      </pais>
+      <pais lang="Yorùbá">
+        <item ref="VERGER(1995:714)" key="1" literal="" use="Folha" country="" namefor="" dsc="" pronuncia="lárâ pupa">Lárà Pupa </item>
+      </pais>
+    </nomes>
+  </planta>
+
+  <planta title="Embaúba Vermelha">
+    <habito>Árvore</habito>
+    <cientifico>Cecropia palmata Willd.</cientifico>
+    <familia>Moraceae</familia>
+    <imagem width="427" height="640">cecropia_palmata.jpg</imagem>
+    <descricao>
+      Cecropia palmata é uma árvore perene que geralmente cresce até cerca de 10 metros de altura, mas excepcionalmente até 30 metros. A árvore é colhida na natureza por seus frutos e folhas comestíveis. Às vezes é cultivada como ornamental, sendo valorizada por sua grande copa em forma de guarda-chuva que projeta pouca sombra e, portanto, permite que outras plantas sejam cultivadas até seu tronco.
+    </descricao>
+    <nomes>
+      <pais lang="Português (BRASIL)">
+        <item ref="">Umbaúba</item>
+        <item ref="">Árvore da Preguiça</item>
+        <item ref="">Umbaíba</item>
+        <item ref="">Embaúba</item>
+        <item ref="">Baúna</item>
+        <item ref="">Sambacuim</item>
+        <item ref="">Ambaí</item>
+        <item ref="">Ambaú</item>
+        <item ref="">Ambaitinga</item>
+        <item ref="">Amabitinga</item>
+        <item ref="">Ambaíba</item>
+        <item ref="">Ambaúba</item>
+        <item ref="">Caxeta</item>
+        <item ref="">Imbaúba</item>
+        <item ref="">Imbaíba</item>
+        <item ref="">Pau de Lixa</item>
+        <item ref="">Torém</item>
+        <item key="1" literal="" ref="" use="">Embaúba Vermelha</item>
+      </pais>
+      <pais lang="Inglês">
+        <item ref="1049" literal="Árvore de madeira de cobra">Snakewood Tree</item>
+        <item ref="">Trumpet Tree</item>
+        <item ref="">Snake Wood</item>
+        <item ref="">Congo Pump</item>
+        <item ref="">Wild Pawpaw</item>
+      </pais>
+      <pais lang="Espanhol">
+        <item ref="">Guarumo</item>
+      </pais>
+      <pais lang="Francês">
+        <item ref="">Bois Cannon</item>
+        <item ref="">Trompettier</item>
+      </pais>
+      <pais lang="Italiano">
+        <item ref="">Umbaùba</item>
+      </pais>
+      <pais lang="Alemão">
+        <item ref="">Trompetenbaum</item>
+      </pais>
+      <pais lang="Espanhol (CUBA)">
+        <item ref="">Yagruma</item>
+        <item ref="">Yagrumo</item>
+      </pais>
+
+      <pais lang="Castelhano">
+        <item ref="">Hormigo</item>
+        <item ref="">Hormiguillo</item>
+      </pais>
+      <pais lang="Yorùbá">
+        <item ref="" key="1" literal="" use="Árvore" country="" namefor="" dsc="Nagô" pronuncia="âbaó">Àgbaó </item>
+      </pais>
+    </nomes>
+  </planta>
+  <planta title="Erva de Santa Luzia">
+    <habito>Planta</habito>
+    <cientifico>Pistia stratiotes L.</cientifico>
+    <familia>Araceae</familia>
+    <imagem width="640" height="360">pistia_stratiotes.jpg</imagem>
+    <descricao>
+      É uma pequena planta perene perene com raízes penugentas. Flutuando livremente em lagos, lagoas, etc., a planta forma rosetas de folhas de até 10 cm de largura e 6 cm de altura com um caule florido de até 12 cm de altura. A planta pode se espalhar rapidamente, especialmente em água parada, para formar aglomerados bastante extensos.
+      A planta às vezes é usada localmente para alimentação, mas geralmente apenas onde nada melhor está disponível. Tem uma gama de aplicações medicinais e também é usado como fonte de matéria orgânica e para remover toxinas de águas poluídas. Às vezes é cultivado como ornamental nos trópicos e como ornamental aquático interno em regiões temperadas.
+    </descricao>
+    <nomes>
+      <pais lang="Hausa">
+        <item ref="BLENCH">Káinúúwáá</item>
+        <item ref="">Zákànkau</item>
+      </pais>
+      <pais lang="Mandinga">
+        <item country="Guiné Bissau" ref="">Sarebafáe</item>
+      </pais>
+      <pais lang="Espanhol (CUBA)">
+        <item ref="">Lechuguilla</item>
+      </pais>
+      <pais lang="Português (AGO)">
+        <item ref="">Alface de Água</item>
+      </pais>
+      <pais lang="Português (BRASIL)">
+        <item ref="">Erva de Santa Luzia</item>
+        <item ref="">Alface D' Água</item>
+        <item ref="">Flor D' Água</item>
+        <item ref="">Mururé</item>
+        <item ref="">Pajé</item>
+        <item ref="">Gôlfo</item>
+        <item ref="">Lentilha D'água</item>
+        <item ref="">Mururé Pagé</item>
+        <item ref="">Pasta</item>
+        <item ref="">Repolhinho D'água</item>
+        <item key="1" literal="" ref="" use="">Erva de Santa Luzia</item>
+      </pais>
+      <pais lang="Inglês">
+        <item key="1" ref="">Watter Lettuce</item>
+      </pais>
+
+    </nomes>
+  </planta>
+
+</plantas>
